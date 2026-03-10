@@ -23,4 +23,4 @@
 
 ### 📥 下载安装
 
-你可以前往 [Releases 页面](https://github.com/qim777/worthitem/releases) 下载最新的 APK 安装包。
+你可以前往 [Releases 页面](https://github.com/qim777/worthitem/releases/tag/app) 下载最新的 APK 安装包。
