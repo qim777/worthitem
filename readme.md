@@ -1,9 +1,8 @@
 # 值物
 
-[![Flutter](https://img.shields.io)](https://flutter.dev)
-[![License](https://img.shields.io)](LICENSE)
 
-> 一个专注于物品管理、订阅追踪与真实购买力换算的 Flutter 应用。
+
+> 一个专注于物品管理、订阅追踪与真实购买力换算的应用。
 
 ### 🌟 核心功能
 
@@ -16,8 +15,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-17-48-39-887_com.zhiwuqingdan.app.jpg" width="30%">
   <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-17-48-41-689_com.zhiwuqingdan.app.jpg" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-12-51-52-046_com.zhiwuqingdan.app.jpg" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-17-49-24-603_com.zhiwuqingdan.app.jpg" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-17-50-01-073_com.zhiwuqingdan.app.jpg" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-17-50-11-568_com.zhiwuqingdan.app.jpg" width="30%">
 </p>
 
 ### 📥 下载安装
 
-你可以前往 [Releases 页面](https://github.com) 下载最新的 APK 安装包。
+你可以前往 [Releases 页面](https://github.com/qim777/worthitem/releases) 下载最新的 APK 安装包。
