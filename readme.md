@@ -10,15 +10,17 @@
 * **📅 订阅管理**：一目了然所有周期性账。
 * **📊 购买力对比**：将开支具象化。比如这笔订阅费 = 3杯咖啡/月，或者 2小时的工作量。
 
+* 还有高度主题自定义与可以完全本地化与私人化
+
 ### 📸 预览截图
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-17-48-39-887_com.zhiwuqingdan.app.jpg" width="30%">
-  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-17-48-41-689_com.zhiwuqingdan.app.jpg" width="30%">
-  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-12-51-52-046_com.zhiwuqingdan.app.jpg" width="30%">
-  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-19-38-50-818_com.zhiwuqingdan.app.jpg" width="30%">
-  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-17-50-01-073_com.zhiwuqingdan.app.jpg" width="30%">
-  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-10-19-38-53-914_com.zhiwuqingdan.app.jpg" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-20-10-13-16-415_com.zhiwuqingdan.app-edit.png" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-20-10-13-33-721_com.zhiwuqingdan.app-edit.png" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-20-10-14-11-992_com.zhiwuqingdan.app-edit.png" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-20-10-14-45-419_com.zhiwuqingdan.app-edit.png" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-20-10-15-58-818_com.zhiwuqingdan.app-edit.png" width="30%">
+  <img src="https://raw.githubusercontent.com/qim777/tuchuangtest/main/Screenshot_2026-03-20-10-16-56-673_com.zhiwuqingdan.app-edit.png" width="30%">
 </p>
 
 ### 📥 下载安装
